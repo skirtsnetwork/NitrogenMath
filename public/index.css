@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,300&display=swap');
 
 body {
-  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-family: 'Kanit', sans-serif;
   margin: 0;
   background: #111;
   display: flex;
@@ -36,7 +36,7 @@ body {
 #uv-error-code {
   font-size: 12px;
   color: #fff;
-  font-family: "Courier New", Courier, monospace;
+font-family: 'Kanit', sans-serif;
 }
 
 #uv-register-sw {
@@ -102,7 +102,8 @@ footer a:hover {
 .desc p {
   width: 560px;
   color: rgba(253, 253, 253, 0.514);
-text-align: center;
+  text-align: center;
+  font-family: 'Kanit', sans-serif;
 }
 
 #uv-address {
