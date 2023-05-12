@@ -1,7 +1,7 @@
 // This file overwrites the stock UV config.js
 
 self.__uv$config = {
-  prefix: "/uv/service/",
+  prefix: "/uv/school/",
   bare: "https://incog.dev/bare/",
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
