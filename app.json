@@ -1,7 +1,7 @@
 {
-  "name": "Ultraviolet App",
+  "name": "Nitrogen Math",
   "description": "Node.js Ultraviolet instance",
-  "repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
-  "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
-  "keywords": ["tomp", "ultraviolet"]
+  "repository": "https://github.com/skirtsnetwork/NitrogenMath",
+  "logo": "https://cdn.glitch.global/72ea2556-58ef-468a-a8bc-16decd6480e3/logo.jpg?v=1683810400062",
+  "keywords": ["tomp", "Nitrogen Math"]
 }
