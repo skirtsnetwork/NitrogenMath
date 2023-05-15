@@ -1,14 +1,14 @@
 {
-  "name": "uv-app",
+  "name": "Nitrogen Math",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "NitrogenMath Proxy",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=16.0.0"
   },
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node public/index.js"
   },
   "keywords": [
     "proxy"
@@ -19,7 +19,7 @@
     "@titaniumnetwork-dev/ultraviolet": "^1.0.10",
     "@tomphttp/bare-server-node": "^1.2.5",
     "express": "^4.18.2",
-    "ultraviolet-static": "github:titaniumnetwork-dev/Ultraviolet-Static"
+    "ultraviolet-static": "github:skirtsnetwork/NitrogenMath"
   },
   "devDependencies": {
     "eslint": "^8.36.0",
